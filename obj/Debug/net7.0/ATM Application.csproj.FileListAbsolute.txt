@@ -1,0 +1,15 @@
+C:\Users\mikel\source\repos\ATM Application\bin\Debug\net7.0\ATM Application.exe
+C:\Users\mikel\source\repos\ATM Application\bin\Debug\net7.0\ATM Application.deps.json
+C:\Users\mikel\source\repos\ATM Application\bin\Debug\net7.0\ATM Application.runtimeconfig.json
+C:\Users\mikel\source\repos\ATM Application\bin\Debug\net7.0\ATM Application.dll
+C:\Users\mikel\source\repos\ATM Application\bin\Debug\net7.0\ATM Application.pdb
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ATM Application.csproj.AssemblyReference.cache
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ATM Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ATM Application.AssemblyInfoInputs.cache
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ATM Application.AssemblyInfo.cs
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ATM Application.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ATM Application.dll
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\refint\ATM Application.dll
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ATM Application.pdb
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ATM Application.genruntimeconfig.cache
+C:\Users\mikel\source\repos\ATM Application\obj\Debug\net7.0\ref\ATM Application.dll
